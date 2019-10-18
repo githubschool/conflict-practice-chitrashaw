@@ -21,3 +21,5 @@ Show us how you're using and remixing Parable of the Polygons!
 Tweet us at
 [@vihartvihart](https://twitter.com/vihartvihart) and
 [@ncasenmare](https://twitter.com/ncasenmare).
+
+chitrashaw
