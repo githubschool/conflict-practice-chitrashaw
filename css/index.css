@@ -15,12 +15,29 @@ body{
 
 }
 
+css-changes
+a {
+ HEAD
+	color: #000;
+
 
 /**a{
 	color: #999999;
+ master
 }
+
 a:hover{
+	color: #fff;
+=======
+	color: #999999;
+}
+
+a {
 	color: #dddddd;
+ css-changes
+ master
+
+ master
 }
 **/
 
